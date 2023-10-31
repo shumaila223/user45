@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(myform\ pics2.avif);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+form{
+  background-color: blueviolet;  
+  border-radius:10px ;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 65vh;
+  width:300px ;
+  margin-bottom: 100px;
+
+}
+.div{
+    color: aqua;
+}
+h2{
+   background-color: blueviolet; 
+   color: chartreuse;
+   width: 220px;
+   align-items: center;
+   justify-content: center;
+}
+input,button{
+    padding:10px ;
+    
+    border-radius: 8px;
+
+}
+button{
+    background-color: aqua;
+    color: blueviolet;
+    cursor: pointer;
+    height:100px ;
+    width: 220px;
+
+}
+

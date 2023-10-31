@@ -1,0 +1,13 @@
+form{
+  background:url() ;  
+  background-size: cover;
+  background-repeat: no-repeat;
+  justify-content: center;
+  display: flex;
+  height: 100vh;
+}
+form{
+    background-color: aqua;
+    border-radius: 10px;
+    border-bottom: 10px;
+}
